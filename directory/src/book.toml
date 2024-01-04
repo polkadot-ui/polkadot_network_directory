@@ -16,6 +16,6 @@ title = "Polkadot Network Directory"
 
 [output.html]
 site-url = "/polkadot_network_directory/"
-git-repository-url = "https://github.com/paritytech/polkadot_network_directory"
+git-repository-url = "https://github.com/polkadot-cloud/polkadot_network_directory"
 git-repository-icon = "fa-github"
-edit-url-template = "https://github.com/paritytech/polkadot_network_directory/edit/master/{path}"
+edit-url-template = "https://github.com/polakdot-cloud/polkadot_network_directory/edit/master/{path}"
